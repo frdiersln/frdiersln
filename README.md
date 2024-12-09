@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ferdi</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
 
-- 🔭 I’m currently working on [eatsplorer](https://github.com/frdiersln/eatsplorer)
+- 🔭 I’m currently working on Gymrate
 
-- 🌱 I’m currently learning **Vue.js, Three.js**
+- 🌱 I’m currently learning **react native**
 
 - 📝 I -not regularly- write articles on [https://medium.com/@frdiersln](https://medium.com/@frdiersln)
 
-- 💬 Ask me about **web scraping with Bs4, Selenium**
+- 💬 Ask me about **web development with vue.js or web scraping with Bs4, Selenium**
 
 - 📫 How to reach me **frdiersln@hotmail.com**
 
