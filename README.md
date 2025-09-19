@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ferdi</h1>
 <h3 align="center">A passionate developer from Turkiye</h3>
 
-- 🔭 I’m currently working on gymrate (gym logbook app)
+- 🔭 I’m currently working on eyola.com (e-commerce)a
 
-- 🌱 I’m currently learning **AI supported development**
+- 🌱 I’m currently learning **Building RAG Systems**
 
 - 📝 I -not regularly- write articles on [https://medium.com/@frdiersln](https://medium.com/@frdiersln)
 
